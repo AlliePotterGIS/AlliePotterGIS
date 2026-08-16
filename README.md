@@ -57,8 +57,8 @@ Check back as new projects are added.
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn URL here
-- Portfolio: Add your portfolio URL here
+- LinkedIn: (https://www.linkedin.com/in/apotter731/)
+- Portfolio: (https://alliepotter.weebly.com/)
 
 <!--
 **AlliePotterGIS/AlliePotterGIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
